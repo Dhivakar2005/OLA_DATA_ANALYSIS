@@ -63,8 +63,8 @@ The dataset contains the following columns:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/OLA_DATA_ANALYSIS.git
-   cd OLA_DATA_ANALYSIS
+    https://github.com/Dhivakar2005/OLA_DATA_ANALYSIS.git
+    cd OLA_DATA_ANALYSIS
    
 ## 🫱🏻‍🫲🏻 Contributing
 Contributions, suggestions, and improvements are welcome! Please open an issue or submit a pull request.
